@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Nitesh Yadav</h1>
 <h3 align="center">A passionate MERN Stack Developer from India.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nitesh2905&label=Profile%20views&color=0e75b6&style=flat" alt="nitesh2905" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=nitesh2905&label=Profile%20views&color=0e75b6&style=flat" alt="nitesh2905" /> </p>
  <img
       align="right"
       width="300"
       src="https://media3.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif?cid=ecf05e47tvvmho9zs72rq5dv2chc417l476iscz1p4reanxw&rid=giphy.gif&ct=g"
       alt="Code"
-    />
+    /> -->
 
 - 🌱 I’m currently learning **ReactJs, NodeJs, Java.**
 
