@@ -9,9 +9,9 @@
       alt="Code"
     /> -->
 
-- 🌱 I’m currently learning **ReactJs, NodeJs, Java.**
+- 🌱 I’m currently learning **ReactJs, NodeJs, C++.**
 
-- 🤝 I’m looking to work on **some more open source project in 2021.**
+- 🤝 I’m looking to work on **some more open source project in 2023.**
 
 - 💬 Ask me about **react, nodejs, javascript.**
 
@@ -20,7 +20,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/nitex" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="nitex" height="30" width="40" /></a>
-<a href="https://twitter.com/nitex_y" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nitex_y" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/nitesh_codes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nitesh_codes" height="30" width="40" /></a>
 </p>
 
